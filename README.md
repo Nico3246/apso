@@ -1,7 +1,6 @@
 # apso
 # Apuntes para Prácticas A.P.S.O. - Manejo de la Shell (I)
 
-Este documento reúne los apuntes y pasos clave de las prácticas **1.1** y **1.2** para que puedas repasar y prepararte para el examen.
 
 ## Contenido
 
