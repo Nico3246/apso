@@ -382,23 +382,4 @@ Este documento reúne los apuntes y pasos clave de las prácticas **1.1** y **1.
 
 ---
 
-## Recomendaciones para el Examen
 
-- **Verificar Rutas y Comandos:**  
-  Asegúrate de utilizar correctamente rutas relativas y absolutas, y revisa la salida de cada comando para confirmar que se ejecutó correctamente.
-
-- **Uso del Tabulador y `man`:**  
-  Emplea la tecla *Tab* para autocompletar rutas y el comando `man` para consultar la ayuda de cualquier comando.
-
-- **Comprender Wildcards:**  
-  Practica el uso de `*`, `?` y `[]` para trabajar de forma eficiente con conjuntos de ficheros.
-
-- **Precisión en Nombres y Directorios:**  
-  Presta atención a mayúsculas y minúsculas, así como a la estructura de directorios para evitar errores.
-
-- **Revisión de Ficheros y Permisos:**  
-  Verifica el contenido de los ficheros con `cat` o `more`, y revisa los permisos con `chmod` cuando sea necesario.
-
----
-
-*Guarda este archivo como `README.md` en tu repositorio o en tu sistema para consultarlo antes del examen. ¡Buena suerte!*
